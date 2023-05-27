@@ -1,0 +1,23 @@
+[
+  {
+    "name": "CavityShield",
+    "img": "https://i.ibb.co/60mZJQD/cavity.png",
+    "category": "Cavity Protection",
+    "desc": "CavityShield is a cutting-edge dental product designed to provide superior cavity protection and promote optimal oral health. Its advanced formula strengthens enamel, fights harmful bacteria, and remineralizes teeth to prevent cavities.",
+    "desc2": "With regular use, CavityShield forms a protective barrier on the teeth, safeguarding against acid attacks and plaque buildup. It also freshens breath and leaves a clean, minty taste, ensuring a refreshing oral care experience."
+  },
+  {
+    "name": "DentGuard Plus",
+    "img": "https://i.ibb.co/R3BZDDd/cosmetic.jpg",
+    "category": "Cosmetic Dentistry",
+    "desc": "Dr. Emily Johnson is a highly experienced cosmetic dentist with a passion for creating beautiful smiles. She offers a wide range of cosmetic dental treatments to enhance the appearance of your teeth and boost your confidence.",
+    "desc2": "With her gentle approach and attention to detail, Dr. Johnson specializes in teeth whitening, porcelain veneers, dental bonding, and smile makeovers. She believes in using the latest technology and techniques to deliver outstanding results."
+  },
+  {
+    "name": "Wisdom Teeth Extraction",
+    "img": "https://i.ibb.co/XZPwszm/oral.jpg",
+    "category": "Oral Surgery",
+    "desc": "Wisdom teeth extraction is a common oral surgery procedure performed to remove the third molars. This procedure is necessary when the wisdom teeth are impacted, causing pain, infection, or crowding issues in the mouth.",
+    "desc2": "Our experienced oral surgeons use state-of-the-art equipment and techniques to ensure a safe and comfortable wisdom teeth extraction procedure. We prioritize patient care and provide detailed post-operative instructions for a smooth recovery."
+  }
+]

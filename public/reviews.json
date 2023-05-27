@@ -1,0 +1,38 @@
+[
+  {
+    "img": "https://i.ibb.co/GCKrRPX/person1.png",
+    "name": "John Smith",
+    "designation": "Marketing Manager",
+    "description": "I had a fantastic experience at the clinic. The staff was friendly and professional. Dr. Johnson did an amazing job with my treatment, and I'm extremely satisfied with the results."
+  },
+  {
+    "img": "https://i.ibb.co/hyLbrd0/person2.png",
+    "name": "Emily Johnson",
+    "designation": "Teacher",
+    "description": "The dental care I received here was exceptional. Dr. Anderson and his team were attentive and made me feel comfortable throughout the process. I highly recommend this clinic."
+  },
+  {
+    "img": "https://i.ibb.co/nggfsfh/person3.png",
+    "name": "Sarah Davis",
+    "designation": "Software Engineer",
+    "description": "I've been a patient at this clinic for years, and they never disappoint. The staff is friendly and accommodating. Dr. Roberts is highly skilled and always provides top-notch care."
+  },
+  {
+    "img": "https://i.ibb.co/hyjLMjt/person4.png",
+    "name": "Michael Johnson",
+    "designation": "Business Analyst",
+    "description": "I'm extremely grateful to Dr. Smith and his team for their excellent care. The atmosphere in the clinic is warm and welcoming. They go above and beyond to ensure patient satisfaction."
+  },
+  {
+    "img": "https://i.ibb.co/Cbd1TVL/person5.png",
+    "name": "Jennifer Wilson",
+    "designation": "Graphic Designer",
+    "description": "I was impressed by the expertise and professionalism of the entire staff. Dr. Davis provided me with detailed information about my treatment options and delivered outstanding results."
+  },
+  {
+    "img": "https://i.ibb.co/nrT3zpL/person6.png",
+    "name": "David Thompson",
+    "designation": "Accountant",
+    "description": "The team at this clinic is exceptional. From the moment I walked in, I felt well taken care of. Dr. Wilson is highly skilled, and the results of my treatment exceeded my expectations."
+  }
+]

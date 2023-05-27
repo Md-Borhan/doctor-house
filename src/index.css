@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Reuseable class*/
+.sectionTitle {
+  @apply text-4xl font-bold text-[#0A0808] mb-3;
+}
+/* Banner Img */
+.bannerImg {
+  background-image: url(./assets/cover/home-banner.png);
+}
+
+/* Tab style */
+.react-tabs__tab {
+  bottom: 0 !important;
+  padding: 25px 16px !important;
+  border-radius: 10px !important;
+  color: #3b3a3a !important;
+}
+.react-tabs__tab-list {
+  border-bottom: 1px solid #aaa;
+  display: flex;
+  justify-content: space-between;
+}
+.react-tabs__tab--selected {
+  background: #f7a582 !important;
+  border: 1px solid #f7a582 !important;
+}
+.react-tabs__tab-list {
+  border: 1px solid #e6e6e6 !important;
+  border-radius: 10px !important;
+}
+@media screen and (max-width: 640px) {
+  .react-tabs__tab-list {
+    display: flex;
+    flex-direction: column;
+  }
+}
+/* Patient Reviews */
+.swiper-button-next:after,
+.swiper-button-prev:after {
+  font-size: 24px !important;
+}
+.swiper-button-next,
+.swiper-button-prev {
+  background: red !important;
+  border-radius: 50% !important;
+  height: 50px !important;
+  width: 50px !important;
+}
